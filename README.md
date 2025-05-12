@@ -32,8 +32,8 @@ I'm a passionate **Front-End Developer** with over **3 years of experience** spe
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/amir-kianvash(#)
-- Email: amirkianvash2023@gmail.com(mailto:amirkianvash2023@gmail.com)
+- 📧 Email: [amirkianvash2023@gmail.com](mailto:amirkianvash2023@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/amir-kianvash](https://www.linkedin.com/in/amir-kianvash)
 
 ## 💬 About Me
 
