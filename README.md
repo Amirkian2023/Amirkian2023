@@ -30,10 +30,20 @@ I'm a passionate **Front-End Developer** with over **3 years of experience** spe
   A **cloud-based all-in-one hotel management platform** offering futuristic features and a clean, modern interface. Built to help hotels maximize income and minimize errors, it provides a full suite of tools       from reservations to customer management.  
   👉 *My role:* Front-end development using **Nuxt 3**, **Tailwind CSS**, and **i18n**. I worked on implementing responsive layouts, multilingual support, and integrating dynamic data into interactive components.
 
-## 📫 Get in Touch
+---
+
+## 📊 GitHub Stats
+
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
 
 - 📧 Email: [amirkianvash2023@gmail.com](mailto:amirkianvash2023@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/amir-kianvash](https://www.linkedin.com/in/amir-kianvash)
+
+---
 
 ## 💬 About Me
 
