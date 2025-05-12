@@ -34,7 +34,7 @@ I'm a passionate **Front-End Developer** with over **3 years of experience** spe
 
 ## 📊 GitHub Stats
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkian2023&show_icons=true&theme=radical)
 
 ---
 
