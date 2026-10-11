@@ -1,16 +1,17 @@
-## Hi there 👋
+# Amir Kianvash
 
-<!--
-**Amirkian2023/Amirkian2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. I mostly work with Laravel/PHP on the backend and Vue/Nuxt or Next.js on the frontend. Open to remote contract work.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hubmelk** (hubmelk.ir): a map-based real estate platform, live in production. Built alone: PHP REST API, OTP/JWT auth, Workerman WebSocket alerts, Next.js admin panel, Leaflet map.
+- **Multi-hotel management system** (ASA System Company): Laravel and Vue. Reservations, permissions, notifications. Private codebase.
+- **Appointment booking SaaS**: multi-tenant Laravel and Vue 3 app. Personal project.
+
+## Stack
+
+PHP, Laravel, MySQL, Vue 3, Nuxt, React, Next.js, TypeScript, Tailwind CSS, Git
+
+## Contact
+
+amirkianvash2023@gmail.com | linkedin.com/in/amir-kianvash
